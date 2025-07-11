@@ -1,2 +1,0 @@
-# MYOA
-Create an app
